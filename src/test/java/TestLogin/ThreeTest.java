@@ -9,6 +9,7 @@ public class ThreeTest {
 	@Test
 	public void testthree() {
 		System.out.println("Print testthree");
+		System.out.println("pushing the code to master");
 	}
 
 }
