@@ -10,6 +10,7 @@ public class ThreeTest {
 	public void testthree() {
 		System.out.println("Print testthree");
 		System.out.println("pushing the code to master");
+		System.out.println("updating code on 3rd time");
 	}
 
 }
